@@ -27,7 +27,7 @@ class TSP:
         #print(running_instance)
         self.instance_file_path = running_instance['instance_file_path']
         # WORKAROUND TO AVOID CHANGING ALL INSTANCE FILES.
-        with open('/home/g/gomesper/palma_files/' + self.instances_path + '/' + self.instance_file_path, 'r') as f:
+        with open(self.instances_path + '/' + self.instance_file_path, 'r') as f:
             lines = f.readlines()
             self.num_cities = int(lines[5].split(' : ')[1].split('\n')[0])
             self.cost_matrix = np.zeros((self.num_cities, self.num_cities))

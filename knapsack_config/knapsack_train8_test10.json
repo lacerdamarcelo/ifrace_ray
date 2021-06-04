@@ -1,1 +1,1 @@
-{"training_functions": [{"instance_index": 13, "instance_type": 13, "num_items": 20}], "test_functions": [{"instance_index": 37, "instance_type": 13, "num_items": 50}], "instances_path": "/home/g/gomesper/palma_files/knapsack_problem"}
+{"training_functions": [{"instance_index": 13, "instance_type": 13, "num_items": 20}], "test_functions": [{"instance_index": 37, "instance_type": 13, "num_items": 50}], "instances_path": "/knapsack_problem"}

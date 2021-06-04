@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 
 redis_address=sys.argv[1]
 redis_password=sys.argv[2]
-ray.init(address=redis_address, redis_password=redis_password)
+ray.init(address=redis_address, redis_port=6380, redis_password=redis_password)
 
 alg_config_file_path = sys.argv[3]
 with open(alg_config_file_path, 'r') as f:

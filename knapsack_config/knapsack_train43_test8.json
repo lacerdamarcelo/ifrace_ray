@@ -1,1 +1,1 @@
-{"training_functions": [{"instance_file_path": "knapPI_13_10000_1000.csv.tsp"}], "test_functions": [{"instance_file_path": "knapPI_11_100_1000.csv.tsp"}], "instances_path": "/home/g/gomesper/palma_files/knapsack_problem"}
+{"training_functions": [{"instance_file_path": "knapPI_13_10000_1000.csv.tsp"}], "test_functions": [{"instance_file_path": "knapPI_11_100_1000.csv.tsp"}], "instances_path": "/knapsack_problem"}
