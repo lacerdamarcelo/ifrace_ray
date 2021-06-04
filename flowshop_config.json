@@ -1,0 +1,1 @@
+{"training_functions": [{"num_jobs": 800, "num_machines": 60, "instance_size": "L"}], "test_functions": [{"num_jobs": 10, "num_machines": 10, "instance_size": "S"}], "instances_path": "Ordered flow shop benchmark/Benchmark L"}

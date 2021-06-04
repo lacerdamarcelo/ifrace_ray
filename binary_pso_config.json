@@ -1,0 +1,1 @@
+{"parameters_ranges": {"w": [0, 1], "c1": [0.0, 4.0], "c2": [0.0, 4.0]}, "constant_parameters": {"k": 99, "p": 2, "pop_size": 100, "v": 0.5}}
